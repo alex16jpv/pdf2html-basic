@@ -173,6 +173,5 @@ dist
 
 .DS_Store
 
-input*.pdf
 output*.html
 test/
