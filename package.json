@@ -1,5 +1,5 @@
 {
-  "name": "pdf-utils",
+  "name": "pdf2html-basic",
   "module": "test.ts",
   "type": "module",
   "devDependencies": {
